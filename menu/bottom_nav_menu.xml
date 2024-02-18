@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/home1"/>
+    <item android:title="Water"
+        android:icon="@drawable/ic_baseline_water_drop_24"
+        android:id="@+id/water2"/>
+    <item android:title="Clean and Sanitation"
+        android:icon="@drawable/ic_baseline_cleaning_services_24"
+        android:id="@+id/cleanandsanitation3"/>
+    <item android:title="Reward card"
+        android:icon="@drawable/ic_baseline_card_giftcard_24"
+        android:id="@+id/reward4"/>
+</menu>
